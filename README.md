@@ -32,7 +32,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zdani123&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zdani123&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=false&order=2" height="300" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zdani123&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=github_dark&hide_border=false&order=2" height="500" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zdani123&radius=50&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="100" alt="activity-graph graph"  />
 </div>
 
