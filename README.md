@@ -1,3 +1,3 @@
 <a href="h">
-<img width="100%" src="https://cvv3-3d-phi.vercel.app/api/github-stats?variant=c"/>
+<img width="100%" src="https://daniel-amorim-cv.vercel.app/api/github-stats?variant=c"/>
 </a>
